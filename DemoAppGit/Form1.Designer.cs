@@ -46,7 +46,7 @@ namespace DemoAppGit
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(502, 360);
+            this.button2.Location = new System.Drawing.Point(667, 297);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(135, 45);
             this.button2.TabIndex = 1;
@@ -55,7 +55,7 @@ namespace DemoAppGit
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(325, 360);
+            this.button3.Location = new System.Drawing.Point(667, 246);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(135, 45);
             this.button3.TabIndex = 2;
